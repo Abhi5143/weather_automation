@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+sendgrid
+sqlalchemy
+pydantic
+schedule
+python-dotenv
