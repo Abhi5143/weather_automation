@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# IDE / Codespaces
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
